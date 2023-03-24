@@ -1,0 +1,99 @@
+# Object files
+*.o
+*.lo
+*.slo
+
+# Shared libraries
+*.so
+*.dylib
+*.[dD][lL][lL]
+
+# Static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# Dependency makefiles
+*.d
+
+# Compiled executable
+emulationstation
+EmulationStation
+EmulationStation.exe
+
+# Emscripten build
+emulationstation.data
+emulationstation.html
+emulationstation.js
+emulationstation.wasm
+emulationstation.worker.js
+/index.html
+/ROMs
+
+# AppImage
+AppDir
+*.AppImage
+
+# Core dumps
+emulationstation.core
+
+# Profiling data
+callgrind.out.*
+gmon.out
+
+# Patch/diff files
+*.patch
+
+# Build directories
+build
+Debug
+Release
+MinSizeRel
+RelWithDebInfo
+.cache
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+install_manifest.txt
+EmulationStation.exe.manifest
+
+# CPack
+_CPack_Packages
+emulationstation-de*.deb
+emulationstation-de*.rpm
+EmulationStation-DE*.dmg
+EmulationStation-DE*.exe
+
+# TODO
+TODO.md
+
+# macOS
+.DS_Store
+
+# MSVC
+EmulationStation.ilk
+EmulationStation.pdb
+lunasvg.exp
+lunasvg.ilk
+lunasvg.pdb
+rlottie.exp
+rlottie.ilk
+rlottie.pdb
+
+# Eclipse
+.cproject
+.project
+.settings/
+
+# CLion
+.idea/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+*.cbp
+
+# VSCode
+.vscode/

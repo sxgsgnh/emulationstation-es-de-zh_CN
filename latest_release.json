@@ -1,0 +1,132 @@
+{
+    "comment": "Latest release of EmulationStation Desktop Edition (ES-DE)",
+    "website": "https://es-de.org/",
+    "repository": "https://gitlab.com/es-de/",
+    "stable": {
+        "version": "2.0.0",
+        "release": "31",
+        "date": "2023-03-11",
+        "packages": [
+            {
+                "name": "WindowsPortable",
+                "filename": "EmulationStation-DE-2.0.0-x64_Portable.zip",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412461/download",
+                "md5": "f571508ead0e82a62f06b329dd48d370",
+                "message": ""
+            },
+            {
+                "name": "WindowsInstaller",
+                "filename": "EmulationStation-DE-2.0.0-x64.exe",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412459/download",
+                "md5": "17441666e181f8e1918d60c6dadc4c3a",
+                "message": ""
+            },
+            {
+                "name": "macOSApple",
+                "filename": "EmulationStation-DE-2.0.0-arm64.dmg",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71432717/download",
+                "md5": "9aba4ee226f2cf6453e630da3d952660",
+                "message": ""
+            },
+            {
+                "name": "macOSIntel",
+                "filename": "EmulationStation-DE-2.0.0-x64.dmg",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71432722/download",
+                "md5": "86d0be4c4f244bc7b943f9ccf5626095",
+                "message": ""
+            },
+            {
+                "name": "LinuxDEB",
+                "filename": "emulationstation-de-2.0.0-x64.deb",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412450/download",
+                "md5": "81ebc744531ac82301b61302a0f4bde2",
+                "message": ""
+            },
+            {
+                "name": "LinuxRPM",
+                "filename": "emulationstation-de-2.0.0-x64.rpm",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412465/download",
+                "md5": "e0f559ca6f4c648d7aa6c36c25d03b13",
+                "message": ""
+            },
+            {
+                "name": "LinuxAppImage",
+                "filename": "EmulationStation-DE-x64.AppImage",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412483/download",
+                "md5": "76ab3486078941e94449d2b1ebffe336",
+                "message": ""
+            },
+            {
+                "name": "LinuxSteamDeckAppImage",
+                "filename": "EmulationStation-DE-x64_SteamDeck.AppImage",
+                "url": "https://gitlab.com/es-de/emulationstation-de/-/package_files/71412485/download",
+                "md5": "06361edda17cde69745798715c2bd853",
+                "message": "Or if you've used EmuDeck to install ES-DE you can update to the latest release via their installer"
+            }
+        ]
+    },
+    "prerelease": {
+        "comment": "The fields below will be blank if there is no prerelease available",
+        "version": "",
+        "release": "",
+        "date": "",
+        "packages": [
+            {
+                "name": "WindowsPortable",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "WindowsInstaller",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "macOSApple",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "macOSIntel",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "LinuxDEB",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "LinuxRPM",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "LinuxAppImage",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            },
+            {
+                "name": "LinuxSteamDeckAppImage",
+                "filename": "",
+                "url": "",
+                "md5": "",
+                "message": ""
+            }
+        ]
+    }
+}

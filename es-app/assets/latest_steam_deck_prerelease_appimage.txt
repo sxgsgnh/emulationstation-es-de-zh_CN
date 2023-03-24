@@ -1,0 +1,2 @@
+# URL for the latest Steam Deck prerelease AppImage, used by EmuDeck (www.emudeck.com)
+# No prerelease is currently available
